@@ -15,7 +15,7 @@ function registrar() {
 	}
 	if (Aluno.nome == true){
 		var td_name = document.querySelector(`.name`)
-		td_name.innerText = `${Aluno.nome}`
+		td_name.innerHTML = `${Aluno.nome}`
 	} else {
 
 	}	
