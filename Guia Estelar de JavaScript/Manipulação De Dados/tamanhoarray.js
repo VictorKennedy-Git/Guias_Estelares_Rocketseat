@@ -1,0 +1,1 @@
+console.log(['a', { name: 'kennedy' }, 123].length)
